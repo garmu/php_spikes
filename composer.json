@@ -1,0 +1,11 @@
+{
+  "require": {
+    "amphp/socket": "^0.10.11",
+    "amphp/parallel": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jobs\\": "Jobs/"
+    }
+  }
+}
